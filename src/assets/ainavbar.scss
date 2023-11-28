@@ -1,0 +1,11 @@
+.navbar {
+  background-color: rgba(201, 207, 212, 0.581) !important; 
+  backdrop-filter: blur(2px); 
+  background-color: var(--el-menu-active-color);
+  transition: top 0.3s;
+  position: fixed !important;
+  top: 0 ;
+  left: 0 ;
+  width: 100% ;
+  z-index: 999 ;
+}

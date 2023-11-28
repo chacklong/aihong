@@ -1,0 +1,23 @@
+:root{
+    --el-menu-active-color:#276749;
+    --el-menu-text-color:#010101;
+    --el-menu-border-color:#276749;
+    // --el-menu-item-hover-fill: red;
+
+    &:hover{
+        --el-menu-hover-bg-color: #27674982;
+        --el-menu-hover-text-color: #276749;
+        --el-menu-text-color: #276749;
+    }
+    &:active{
+        --el-menu-text-color: #276749;
+        --el-menu-item-hover-fill: #27674982;
+    }
+    --main-bg: linear-gradient(to top, rgba(255, 255, 255, 0.7), rgba(130, 230, 217, 1) 50%, rgba(255, 255, 255, 0.7));
+    --main-bg-red: linear-gradient(to top, rgba(255, 255, 255, 0.7), rgba(97, 35, 35, 0.721) 50%, rgba(255, 255, 255, 0.7));
+    --main-bg-body: linear-gradient(to top, rgba(39, 103, 73, 1), rgba(39, 103, 73, 1) 50%, rgba(39, 103, 73, 1));
+    --backdrop-blur: blur(1px);
+    --backdrop-blur-2: blur(2px);
+    --backdrop-blur-4: blur(4px);
+    --backdrop-blur-6: blur(6px);
+}
