@@ -1,0 +1,20 @@
+[
+    {
+        "id": 7,
+        "attributes": {
+            "url": "http://localhost:1337/uploads/1a9d30ca_54be_411e_8b09_d72ef4488e05_7a1dcae7bb.mp4"
+        }
+    },
+    {
+        "id": 6,
+        "attributes": {
+            "url": "http://localhost:1337/uploads/bg_83cb6e8658.mp4"
+        }
+    },
+    {
+        "id": 5,
+        "attributes": {
+            "url": "http://localhost:1337/uploads/4bf214cf_1ff5_425a_a868_7b82cf0a03eb_c7f6db6055.mp4"
+        }
+    }
+]

@@ -26,8 +26,9 @@
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background: var(--main-bg);
-    backdrop-filter: var(--backdrop-blur);
+    background: var(--aihong-bg-color-5);
+    backdrop-filter: var(--backdrop-blur-6);
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); */
   }
   .hero-content {
     text-align: center;

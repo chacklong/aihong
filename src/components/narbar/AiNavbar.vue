@@ -19,6 +19,7 @@
       <el-menu-item index="2" @click="()=>router.push('/dev')">关于我们</el-menu-item>
       <el-menu-item index="3" @click="()=>router.push('/dev')">最新村报</el-menu-item>
       <el-menu-item index="4" @click="()=>router.push('/dev')">村委会</el-menu-item>
+      <el-menu-item index="4" @click="()=>router.push('/dev')">助农</el-menu-item>
     </el-menu>
     <!-- <transition name="fade">
       <router-view></router-view>

@@ -13,11 +13,22 @@
         --el-menu-text-color: #276749;
         --el-menu-item-hover-fill: #27674982;
     }
-    --main-bg: linear-gradient(to top, rgba(255, 255, 255, 0.7), rgba(130, 230, 217, 1) 50%, rgba(255, 255, 255, 0.7));
-    --main-bg-red: linear-gradient(to top, rgba(255, 255, 255, 0.7), rgba(97, 35, 35, 0.721) 50%, rgba(255, 255, 255, 0.7));
-    --main-bg-body: linear-gradient(to top, rgba(39, 103, 73, 1), rgba(39, 103, 73, 1) 50%, rgba(39, 103, 73, 1));
-    --backdrop-blur: blur(1px);
+    --aihong-bg: linear-gradient(to top, rgba(255, 255, 255, 0.7), rgba(130, 230, 217, 1) 50%, rgba(255, 255, 255, 0.7));
+    --aihong-bg-color: linear-gradient(to top, rgba(255, 255, 255, 0.7), rgba(97, 35, 35, 0.721) 50%, rgba(255, 255, 255, 0.7));
+    --aihong-bg-color-1: linear-gradient(to top, rgba(39, 103, 73, 1), rgba(39, 103, 73, 1) 50%, rgba(39, 103, 73, 1));
+    --aihong-bg-color-2: linear-gradient(to top, rgba(255, 255, 255, 0.7), rgba(102, 187, 106, 0.7) 50%, rgba(255, 255, 255, 0.7));
+    --aihong-bg-color-3: linear-gradient(to top, rgba(255, 255, 255, 0.7), rgba(139, 195, 74, 0.7) 50%, rgba(255, 255, 255, 0.7));
+    --aihong-bg-color-4: linear-gradient(to top, rgba(255, 255, 255, 0.7), rgba(255, 183, 77, 0.7) 50%, rgba(255, 255, 255, 0.7));
+    --aihong-bg-color-5: linear-gradient(to top, rgba(48, 191, 191, 0), rgba(48, 191, 191, 0.7) 50%, rgba(48, 191, 191, 0));
+    --aihong-text-color: #276749;
+    --aihong-bg-color-spring: linear-gradient(to top, rgba(255, 255, 255, 0.7), rgba(174, 213, 129, 0.7) 50%, rgba(255, 255, 255, 0.7));
+    --aihong-bg-color-summer: linear-gradient(to top, rgba(255, 255, 255, 0.7), rgba(79, 195, 247, 0.7) 50%, rgba(255, 255, 255, 0.7));
+    --aihong-bg-color-autumn: linear-gradient(to top, rgba(255, 255, 255, 0.7), rgba(255, 183, 77, 0.7) 50%, rgba(255, 255, 255, 0.7));
+    --aihong-bg-color-winter: linear-gradient(to top, rgba(255, 255, 255, 0.7), rgba(129, 212, 250, 0.7) 50%, rgba(255, 255, 255, 0.7));
+    --backdrop-blur-1: blur(1px);
     --backdrop-blur-2: blur(2px);
     --backdrop-blur-4: blur(4px);
     --backdrop-blur-6: blur(6px);
+    --backdrop-blur-8: blur(8px);
+    --backdrop-blur-10: blur(10px);
 }

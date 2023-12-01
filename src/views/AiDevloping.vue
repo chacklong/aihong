@@ -7,15 +7,28 @@
         <p>Sorry, we are working overtime and developing...</p>
       </div>
     </el-card>
+    <!-- <el-card>
+      <div class="not-found-content" v-if="user">
+        <h2>mock 测试</h2>
+        <p>ID: {{ user.id }}</p>
+        <p>Name: {{ user.name }}</p>
+      </div>
+    </el-card> -->
   </div>
 </template>
 
-<script lang="ts">
-import { defineComponent } from 'vue';
+<script lang="ts" setup> 
+// AiDevloping.vue
+// import { instance as axios } from '../utils/mock'
+// import {ref, onMounted} from 'vue'
 
-export default defineComponent({
-  name: 'AiNotFound',
-});
+// const user = ref(null as any)
+
+// onMounted(async ()=>{
+//   const response = await axios.get('/api/user')
+//   user.value = response.data.users[0]
+//   console.log(response.data.users[0].name)
+// })
 </script>
 
 <style scoped>

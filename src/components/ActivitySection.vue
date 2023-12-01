@@ -29,7 +29,7 @@
     align-items: center;
     justify-content: center;
     height: 90vh;
-    background: var(--main-bg);
+    background: var(--aihong-bg-color-5);
     backdrop-filter: var(--backdrop-blur-6);
   }
   
